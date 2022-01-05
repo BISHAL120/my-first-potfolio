@@ -31,3 +31,8 @@ section{
    background-image: url(top-banner.png);
    background-repeat: no-repeat;
 }
+.Dream-Big{
+    background-image: url(dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}   
